@@ -17,7 +17,7 @@ function App() {
             <LayoutContainer>
                 <AppBar position="sticky">
                     <AppBarContent direction="column" alignItems="stretch">
-                        <Typography>На авто для військових</Typography>
+                        <Typography>На авто для Самохідного Артилерійського Дивізіону</Typography>
                     </AppBarContent>
                 </AppBar>
             </LayoutContainer>
